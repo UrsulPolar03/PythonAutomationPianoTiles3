@@ -1,5 +1,6 @@
 # PythonAutomationPianoTiles3
+My first Python code written on my own, made it just to exercise and learn more.
 
-With the help of Pyautogui library, this code can play Piano Tiles 3 by itself.
-All you need is Bluestacks and Piano Tiles 3 installed on it.
-For the code to work perfectly, you'r screen resolution need to be on 1080x1920 and Bluestacks on FULLSCREEN.
+With the help of Pyautogui library, this code will automatically detect the notes (even the slides) and click them.
+
+For the code to work perfectly, you must do: Screen resolution: 1080x1920 / Bluestacks position: FULLSCREEN.
